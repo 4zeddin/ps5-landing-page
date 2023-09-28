@@ -1,6 +1,6 @@
 # PS5 Landing Page
 
-This repository contains a responsive landing page for the PlayStation 5 (PS5). The landing page is built using HTML and CSS and serves as a showcase for the PS5 gaming console.
+This repository contains a responsive landing page for the PlayStation 5 (PS5). The landing page is built using HTML and CSS and JavaScript and serves as a showcase for the PS5 gaming console.
 
 ## Table of Contents
 
